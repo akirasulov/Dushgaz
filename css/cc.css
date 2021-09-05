@@ -1,0 +1,98 @@
+@media (max-width: 1024px) { 
+  .section-covid_head_content_list {
+    padding-bottom: 10px;
+  }
+  .section-covid_head {
+    margin-top: 20px;
+    background-size: contain;
+    padding: 10px;
+  }
+  .section-covid_head_content_header {
+    text-align: center;
+    padding-top: 10px;
+  }
+  .section-covid-info_content_left_heading {
+    margin-top: 20px;
+  }
+  .section-covid_head_content_list_item_link,
+  .section-covid_head_content_list_item_text {
+    font-size: 20px;
+  }
+  .section-covid-info_content_left { 
+    height: 100%;
+    float: left;
+  }
+  .section-covid-info {
+    height: 730px;
+  }
+  .header_change-lang {
+    transform: translateY(-30px);
+  }
+  .footer_link {
+    font-size: 18px;
+  }
+ .footer_logo_heading, .footer_contact {
+   margin-left: 30%;
+ }
+  .footer_contact {
+    padding-bottom: 10px;
+  }
+.logo_head {
+  /* width: 50px;
+  height: 50px; */
+  transform: translateY(8px);
+}
+.footer_logo_heading {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.logo_content {
+  margin-left: 35%;
+}
+.footer_row_list:not(:last-child) {
+  margin-right: 40px;
+}
+.footer_logo_heading {
+  width: 100%;
+}
+.open::before,
+.open::after,
+.open {
+  width: 30px;
+  height: 5px;
+}
+.logo_title_head {
+  font-size: 22px;
+  color: #FF9900;
+  transform: translateY(15px);
+}
+.logo_city_head {
+  font-size: 22px;
+  color: #35C0ED;
+  transform: translateY(15px);
+}
+.section-covid_head_content {
+  padding: 0px;
+}
+.nav {
+  display: none;
+}
+hr {
+  display: none;
+}
+.burger {
+display: inherit;  
+z-index: 3;
+position: absolute;
+transform: translatey(-38px);
+}
+.logo_container {
+display: inherit;
+}
+.header_top {
+  display: none;
+}
+.logo_head {
+  width: 50px;
+}
+}
